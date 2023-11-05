@@ -37,13 +37,14 @@ body {
 
 #card h1 {
     font-size: 30px;
+    font-weight: 700;
     margin: 10px 0;
 }
 
 #card h5 {
     font-size: 25px;
     color: red;
-    margin: 20px;
+    margin-bottom: 20px;
 }
 
 #card button {
@@ -53,6 +54,8 @@ body {
     padding: 12px 20px;
     border-radius: 5px;
     border: none;
+    margin: 5px;
+    cursor: pointer;
 }
 
 #card #remove {
